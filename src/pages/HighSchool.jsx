@@ -52,8 +52,8 @@ export default function HighSchool() {
           </h2>
         </div>
         <div className="py-2">
-          <div className="sm:rounded-3xl p-4 bg-blue-50">
-            <div className="text-center">
+          <div className="sm:rounded-3xl px-4 py-8 bg-blue-50">
+            <div className="text-center space-y-6">
               <h1 className="text-xl text-blue-600 font-semibold">
                 Attention Directors!
               </h1>
@@ -62,7 +62,7 @@ export default function HighSchool() {
                 Honor Choir voice tracks.
               </p>
               <button className="mt-2 rounded-md px-3 py-2 text-white bg-gray-600 hover:bg-gray-500">
-                Download Learning Tracks
+                <a href="https://drive.google.com/drive/folders/1yZYyilJtKZ3aSMuaJFf2g_DU2KDxpzsO?usp=sharing" target="_blank" rel="noreferrer">Download Learning Tracks</a>
               </button>
             </div>
           </div>
