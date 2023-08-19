@@ -25,7 +25,7 @@ const selections = [
     composer: "Andy Beck",
     voicing: "SAB",
     publisher: "Alfred Music",
-    pepper: "https://www.jwpepper.com/Carry-the-Light/11393271.item",
+    pepper: "https://www.jwpepper.com/11393272.item",
     penders: "https://www.penders.com/p-1024592-carry-the-light.aspx",
     errata: "Sing large notes only.",
   },
