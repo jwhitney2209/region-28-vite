@@ -130,6 +130,8 @@ export default function HighSchool() {
                     <Link
                       to={selection.pepper}
                       type="button"
+                      target="_blank"
+                      rel="noreferrer"
                       className="font-normal rounded-md px-3 py-2 bg-gray-600 hover:bg-gray-500 text-white"
                     >
                       JW Pepper
@@ -137,6 +139,8 @@ export default function HighSchool() {
                     <Link
                       to={selection.penders}
                       type="button"
+                      target="_blank"
+                      rel="noreferrer"
                       className="ml-2 font-normal rounded-md px-3 py-2 bg-blue-600 hover:bg-blue-500 text-white"
                     >
                       Penders
