@@ -5,10 +5,10 @@ export default function Home() {
       <div>
         <Hero />
         <div className="mx-auto max-w-7xl sm:px-6 lg:px-8 py-12">
-          <h1 className="font-semibold text-2xl text-center">
+          <h1 className="font-semibold text-xl text-center">
             TMEA Region 28 Officers
           </h1>
-          <div className="px-2 py-4 sm:text-left text-center">
+          <div className="px-2 py-4 text-sm sm:text-left text-center">
             <h1 className="font-semibold">
               Chair:{" "}
               <span className="font-normal">
@@ -26,7 +26,7 @@ export default function Home() {
               <span className="font-normal">Tiffany Gibson, Rivera ECHS</span>
             </h1>
           </div>
-          <div className="px-2 sm:text-left text-center">
+          <div className="px-2 text-sm sm:text-left text-center">
             <h1 className="font-semibold">
               Middle School Coordinator:{" "}
               <span className="font-normal">
