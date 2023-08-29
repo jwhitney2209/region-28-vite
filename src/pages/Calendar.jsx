@@ -48,7 +48,7 @@ const calendar = [
     event: "UIL Solo & Ensemble Entry and Postmark Deadline",
     description:
       "Entry Fee $10.00 per student, per event. Form 1 needs to be signed by principal and mailed with check - NO LATE ENTRIES",
-    location: "TBD",
+    location: "",
   },
   {
     date: "January 6, 2024",
